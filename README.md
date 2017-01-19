@@ -5,5 +5,5 @@ pt-br<br>
 Exemplo básico de implentação de uma lista agrupada UWP
 
 ________________________________________________________________________________________________
-ScreenShot:<br>
-![ScreenShot](https://raw.github.com/rubgithub/ListGroup-UWP/master/Capturar.png)
+<b>ScreenShot:<br><br>
+![ScreenShot](https://github.com/rubgithub/ListGroup-UWP/blob/master/Capturar.PNG)
